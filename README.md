@@ -95,11 +95,11 @@ ________________________________________________________________________________
 
 ### Medición del voltaje equivalente VTH
 
-![image](https://user-images.githubusercontent.com/105606339/177906306-7f992406-c301-43d1-aa86-708d32cc473c.png)
+![image](https://user-images.githubusercontent.com/105606339/178042244-adbb64fe-7165-457d-b630-f27c89b8a4d7.png)
 
 ### Circuito Equivalente de Thévenin - Medición de voltaje y corriente en el resistor R5
 
-![image](https://user-images.githubusercontent.com/105606339/177903705-6940cddc-25cd-493d-b29f-49b7e4ead013.png)
+![image](https://user-images.githubusercontent.com/105606339/178042302-1abe8b45-3b16-4e71-830e-a195a7d4ea03.png)
 
 ### Tabla de valores del Circuito Equivalente de Thévenin
 
