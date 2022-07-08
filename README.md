@@ -24,7 +24,6 @@
 
 ### Resultados Analíticos
 
-### Cálculo del voltaje y la corriente en el resistor R5
 
 ### Circuito Original
 
@@ -35,7 +34,7 @@
 
 ___________________________________________________________________________________________________________________
 
-### Determinar el circuito equivalente de Thévenin del circuito mostrado
+### Circuito Equivalente de Thévenin 
 
 ![image](https://user-images.githubusercontent.com/105606339/177890856-4f3089ae-4f87-4471-a293-80854e2a68d6.png)
 
