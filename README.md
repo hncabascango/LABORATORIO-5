@@ -25,7 +25,7 @@
 ### Resultados Analíticos
 
 
-### Circuito Original
+###  Circuito original
 
 
 
