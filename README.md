@@ -4,13 +4,11 @@
  
 ### Objetivo General
 
-
-
+Identificar voltajes y corrientes mediante el método de Thevenin y simulaciones para mejorar la comprensión de los métodos estudiados.
 
 ### Objetivos Específicos
-
-
-
+- Calcular el voltaje y la corriente especifica en una resistencia mediante el método de Thevenin
+- Simular el circuito para medir los voltajes y corrientes en una resistencia
 
 ## MARCO TEÓRICO
 
@@ -100,7 +98,8 @@ ________________________________________________________________________________
 
 
 ## CONCLUSIONES
-
+- Mediante el metodo de thevenin pudimos calcular el voltaje y la resistencia y asi poder comparar con la simulacion
+- Con la ayuda del simulador pudimos comprender de mejor manera el circuito y pudimos calcular lo necesario
 ## BIBLIOGRAFÍA
 
 Pereda, J. (4 de Septiembre de 2020). Universidad de Cantabria. Obtenido de https://personales.unican.es/peredaj/pdf_apuntes_ac/presentacion-teoremas.pdf
