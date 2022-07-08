@@ -103,5 +103,11 @@ ________________________________________________________________________________
 
 ## BIBLIOGRAFÍA
 
+Pereda, J. (4 de Septiembre de 2020). Universidad de Cantabria. Obtenido de https://personales.unican.es/peredaj/pdf_apuntes_ac/presentacion-teoremas.pdf
+
+Xnomind. (7 de Noviembre de 2019). Teorema. Obtenido de https://www.teorema.top/teorema-de-thevenin/
+
+
+
 
 
