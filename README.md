@@ -24,6 +24,8 @@
 
 ### Resultados Analíticos
 
+### Cálculo del voltaje y la corriente en el resistor R5
+
 ### Circuito Original
 
 
