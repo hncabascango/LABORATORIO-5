@@ -22,13 +22,29 @@ Identificar voltajes y corrientes mediante el método de Thevenin y simulaciones
 
 ### Resultados Analíticos
 
+### Circuito Original
 
-###  Circuito original
+![image](https://user-images.githubusercontent.com/105606339/178033503-5e652326-fc36-43da-bd18-b31b4da304fe.png)
 
+### Malla 1
 
+![image](https://user-images.githubusercontent.com/105606339/178034714-cd3e6c07-fcf8-4e64-8216-d61ff61dff7f.png)
 
+### Malla 2
 
+![image](https://user-images.githubusercontent.com/105606339/178034768-6b0bf0a2-1935-4750-b7b9-f4f9158ef71e.png)
 
+### Malla 3
+
+![image](https://user-images.githubusercontent.com/105606339/178034801-749aed70-8005-4701-8675-6e7a842d1338.png)
+
+Valor de las corriente de mallas
+
+![image](https://user-images.githubusercontent.com/105606339/178034883-d4bb14cb-788c-4874-8225-8ede9b249ac0.png)
+
+Cálculo del voltaje y corriente en el resistor R5
+
+![image](https://user-images.githubusercontent.com/105606339/178034973-53d27185-1cef-46bf-ba57-c08a03001cc2.png)
 
 ___________________________________________________________________________________________________________________
 
@@ -91,11 +107,11 @@ ________________________________________________________________________________
 
 ### Tabla de Comprobación del Teorema de Thévenin
 
-
-
+![image](https://user-images.githubusercontent.com/105606339/178034643-30936b73-4650-4712-9de0-79170be9440b.png)
 
 ## RESPUESTA A INTERROGANTES Y CÁLCULO DE ERROR
 
+![image](https://user-images.githubusercontent.com/105606339/178037896-861006a8-ed60-437e-a203-84e126f8ae8f.png)
 
 ## CONCLUSIONES
 - Mediante el metodo de thevenin pudimos calcular el voltaje y la resistencia y asi poder comparar con la simulacion
