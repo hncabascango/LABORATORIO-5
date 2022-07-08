@@ -38,11 +38,11 @@ Identificar voltajes y corrientes mediante el método de Thevenin y simulaciones
 
 ![image](https://user-images.githubusercontent.com/105606339/178034801-749aed70-8005-4701-8675-6e7a842d1338.png)
 
-Valor de las corriente de mallas
+### Valor de las corrientes de mallas
 
 ![image](https://user-images.githubusercontent.com/105606339/178034883-d4bb14cb-788c-4874-8225-8ede9b249ac0.png)
 
-Cálculo del voltaje y corriente en el resistor R5
+### Cálculo del voltaje y corriente en el resistor R5
 
 ![image](https://user-images.githubusercontent.com/105606339/178034973-53d27185-1cef-46bf-ba57-c08a03001cc2.png)
 
